@@ -8,4 +8,5 @@ January's theme is Color Palettes. We're kicking it off with a mellow trio of pe
 
 Week 2 January's theme is Color Palettes. This week, we're taking it back to basics with the primary colors: red, blue, and yellow. 💪 Your Challenge: Create a Pen inspired by red, blue, and yellow in these shades: #F44336, #1E88E5, #FDD835.
 
-Week3  Coming soon
+Week3  New week, new #CodePenChallenge!
+You know, a little pop of color can really tie a look together! This week, we're making black & white shine with a pop of shocking pink. 💪 Your Challenge: Create a Pen with a black, white, and shocking pink color scheme: #000, #FFF, #FF1EAD.
