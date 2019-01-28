@@ -10,3 +10,9 @@ Week 2 January's theme is Color Palettes. This week, we're taking it back to bas
 
 Week3  New week, new #CodePenChallenge!
 You know, a little pop of color can really tie a look together! This week, we're making black & white shine with a pop of shocking pink. 💪 Your Challenge: Create a Pen with a black, white, and shocking pink color scheme: #000, #FFF, #FF1EAD.
+
+It's the final week of the Color Palettes #CodePenChallenge!
+
+This week we're going monochromatic with a palette of purples: a soft orchid, a pleasing plum, and a dusky deep purple.
+
+💪 Your Challenge: Create a Pen with this purple color palette: #E2A9E5, #632C65, #4B384C. You could choose to only use these colors, or use them as a starting point to experiment with a wider palette.
