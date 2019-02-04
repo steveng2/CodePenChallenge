@@ -16,3 +16,10 @@ It's the final week of the Color Palettes #CodePenChallenge!
 This week we're going monochromatic with a palette of purples: a soft orchid, a pleasing plum, and a dusky deep purple.
 
 💪 Your Challenge: Create a Pen with this purple color palette: #E2A9E5, #632C65, #4B384C. You could choose to only use these colors, or use them as a starting point to experiment with a wider palette.
+
+Week 5 FEB
+Shapes are one of the fundamental elements of art and design. All the arts, from architecture to painting to ceramics, are principally about the creation of shapes.
+
+In web design, everything is a rectangle! All your block-level, and even your inline-level elements are rectangles that flow together or are explicitly places around the web browser. But of course we have tools to alter those shapes. Canvas and SVG have APIs specifically for drawing shapes. In CSS, properties like border-radius and clip-path can make quick work of slicing up shapes. I'm sure y'all can find many other ways!
+
+Let's have some fun this month focusing on different shape-based challenges!
