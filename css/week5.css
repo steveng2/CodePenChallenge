@@ -28,3 +28,15 @@
   ry: 10.583333;
   stroke-width:0.26458332;
 }
+
+#left-eye:hover {
+    fill: #00FFCC;
+    stroke-dasharray: 700;
+    stroke-dashoffset: 700;
+    stroke-linecap: butt;
+    -webkit-transition: all 2s ease-out;
+    -moz-transition: all 2s ease-out;
+    -ms-transition: all 2s ease-out;
+    -o-transition: all 2s ease-out;
+    transition: all 2s ease-out;
+  }
