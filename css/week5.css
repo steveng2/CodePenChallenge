@@ -1,35 +1,34 @@
 #face-wrapper #face {
-  fill:#d4d411;
-  stroke-width: 0.26458332;
-  cx: 92.226196;
-  cy: 139.38393;
-  rx: 59.720234;
-  ry: 55.5625;
-}
- .left-eye {
-     cx: 72.949409;
-     cy: 112.54762;
-     rx: 16.570711;
-     ry: 17.105249;
-     stroke-width:0.26458332;
-}
-.right-eye {
+    fill:#d4d411;
+    stroke-width: 0.26458332;
+    cx: 92.226196;
+    cy: 139.38393;
+    rx: 59.720234;
+    ry: 55.5625;
+  }
+   .left-eye {
+       cx: 72.949409;
+       cy: 112.54762;
+       rx: 16.570711;
+       ry: 17.105249;
+       stroke-width:0.26458332;
+  }
+  .right-eye {
+      stroke-width:0.26458332;
+      ry: 17.105249;
+      rx: 16.570711;
+      cy: 112.54762;
+      cx: 113.01488;
+  }
+  
+  .mouth {
+    cx: 94.494049;
+    cy: 160.92856;
+    rx: 32.505951;
+    ry: 10.583333;
     stroke-width:0.26458332;
-    ry: 17.105249;
-    rx: 16.570711;
-    cy: 112.54762;
-    cx: 113.01488;
-}
-
-.mouth {
-  cx: 94.494049;
-  cy: 160.92856;
-  rx: 32.505951;
-  ry: 10.583333;
-  stroke-width:0.26458332;
-}
-
-#left-eye:hover {
+  }
+  #left-eye:hover {
     fill: #00FFCC;
     stroke-dasharray: 700;
     stroke-dashoffset: 700;
