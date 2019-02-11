@@ -23,3 +23,13 @@ Shapes are one of the fundamental elements of art and design. All the arts, from
 In web design, everything is a rectangle! All your block-level, and even your inline-level elements are rectangles that flow together or are explicitly places around the web browser. But of course we have tools to alter those shapes. Canvas and SVG have APIs specifically for drawing shapes. In CSS, properties like border-radius and clip-path can make quick work of slicing up shapes. I'm sure y'all can find many other ways!
 
 Let's have some fun this month focusing on different shape-based challenges!
+
+Week 6 
+It's the second week of the Shapes challenge!
+
+This week we're getting right to the point with triangles 🔺🔻🔺🔻
+
+💪 Your Challenge: Create a Pen that focuses on triangles.
+Show off your favorite way to make a triangle in the browser. Will you make it with CSS, SVG, or another technique?
+Have you heard of the Sierpinski triangle? It's a fascinating fractal you can generate with JavaScript.
+Triangles are the root of the low-poly image style. Could you create an interesting image from triangles?
