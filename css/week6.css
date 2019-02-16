@@ -3,4 +3,11 @@ polygon {
     stroke: blue;
     stroke-width: 5px;
     stroke-dasharray: 5px;
+    fill-opacity:  0.1;
+    stroke-opacity: 0.2;
   }
+  polygon:hover {
+    background-color: green;
+    fill-opacity: 0.7;
+  }
+  
