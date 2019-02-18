@@ -1,6 +1,6 @@
 polygon {
-    style: fill;
-    color: green;
+    fill: green;
     stroke: blue;
     stroke-width: 5px;
+    stroke-dasharray: 5px;
   }
